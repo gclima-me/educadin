@@ -40,6 +40,19 @@ Você não precisa instalar nenhum programa especial. Basta seguir estes passos:
 - **CSS:** Para as cores, fontes e visual.
 - **JavaScript:** Para fazer as contas da calculadora e buscar as notícias na internet.
 
+### 📫 Redes Sociais
+<a href="https://www.linkedin.com/in/educadin-educa%C3%A7%C3%A3o-financeira-69a401400/?isSelfProfile=true">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="https://www.instagram.com/educa__din?utm_source=qr&igsh=bzMxOW1lNjN3NWRv">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+
+<a href="https://github.com/admeducadin-creator">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
 ---
 
 ## 🇺🇸 English
@@ -81,3 +94,16 @@ You don't need to install any special software. Just follow these steps:
 - **HTML:** To build the site's skeleton.
 - **CSS:** For colors, fonts, and visual.
 - **JavaScript:** For the calculator logic and to find news on the internet.
+
+### 📫 Social Media
+<a href="https://www.linkedin.com/in/educadin-educa%C3%A7%C3%A3o-financeira-69a401400/?isSelfProfile=true">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="https://www.instagram.com/educa__din?utm_source=qr&igsh=bzMxOW1lNjN3NWRv">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+
+<a href="https://github.com/admeducadin-creator">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
